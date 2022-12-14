@@ -149,7 +149,7 @@ header {
 }
 
 .mail-link {
-    background: url("../image/letter-logo.svg");
+    background: url(".assets/image/letter-logo.svg");
     width: 24px;
     height: 28px;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ header {
 .main-picture {
     width: 590px;
     height: 665px;
-    background: url("../image/CIMG9940_1.png");
+    background: url(".assets/image/CIMG9940_1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
