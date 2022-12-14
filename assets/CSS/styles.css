@@ -149,7 +149,7 @@ header {
 }
 
 .mail-link {
-    background: url("./assets/image/letter-logo.svg");
+    background: url(".assets/image/letter-logo.svg");
     width: 24px;
     height: 28px;
     background-repeat: no-repeat;
