@@ -176,7 +176,7 @@ header {
 .main-picture {
     width: 590px;
     height: 665px;
-    background: url("./assets/image/CIMG9940_1.png");
+    background: url("../image/CIMG9940_1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
